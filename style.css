@@ -11,6 +11,7 @@
   --brown2: #9a6951;
   --gray1: #424141;
   --gray2: #7d7b80;
+  --gray3: #58545c;
 }
 
 body {
@@ -35,7 +36,7 @@ body {
 /* 71 Largura x 81 Altura */
 .art {
   position: relative;
-  top: 0;
+  top: 4px;
   height: 4px;
   width: 4px;
   box-shadow: 
@@ -271,6 +272,161 @@ body {
     244px 32px var(--outline),
     248px 32px var(--outline),
 
+    /* line 10 */
+    168px 36px var(--outline),
+    172px 36px var(--brown1),
+    176px 36px var(--gray2),
+    180px 36px var(--black),
+    184px 36px var(--black),
+    188px 36px var(--gray2),
+    192px 36px var(--gray2),
+    196px 36px var(--brown2),
+    200px 36px var(--brown2),
+    204px 36px var(--gray2),
+    208px 36px var(--gray2),
+    212px 36px var(--gray2),
+    216px 36px var(--gray2),
+    220px 36px var(--brown1),
+    224px 36px var(--brown1),
+    228px 36px var(--brown1),
+    232px 36px var(--brown1),
+    236px 36px var(--brown1),
+    240px 36px var(--brown1),
+    244px 36px var(--outline),
+
+    /* line 11 */
+    168px 40px var(--outline),
+    172px 40px var(--brown1),
+    176px 40px var(--gray2),
+    180px 40px var(--black),
+    184px 40px var(--black),
+    188px 40px var(--gray2),
+    192px 40px var(--gray3),
+    196px 40px var(--gray3),
+    200px 40px var(--gray3),
+    204px 40px var(--gray2),
+    208px 40px var(--gray2),
+    212px 40px var(--black),
+    216px 40px var(--black),
+    220px 40px var(--gray2),
+    224px 40px var(--brown1),
+    228px 40px var(--brown1),
+    232px 40px var(--brown1),
+    236px 40px var(--brown1),
+    240px 40px var(--brown1),
+    244px 40px var(--outline),
+
+    /* line 12 */
+    168px 44px var(--outline),
+    172px 44px var(--brown1),
+    176px 44px var(--gray2),
+    180px 44px var(--gray2),
+    184px 44px var(--gray2),
+    188px 44px var(--gray3),
+    192px 44px var(--gray3),
+    196px 44px var(--gray3),
+    200px 44px var(--gray3),
+    204px 44px var(--gray2),
+    208px 44px var(--gray2),
+    212px 44px var(--black),
+    216px 44px var(--black),
+    220px 44px var(--gray2),
+    224px 44px var(--brown1),
+    228px 44px var(--brown1),
+    232px 44px var(--brown1),
+    236px 44px var(--brown1),
+    240px 44px var(--brown1),
+    244px 44px var(--outline),
+
+    /* line 13 */
+    168px 48px var(--outline),
+    172px 48px var(--brown1),
+    176px 48px var(--gray2),
+    180px 48px var(--gray2),
+    184px 48px var(--gray2),
+    188px 48px var(--gray3),
+    192px 48px var(--gray3),
+    196px 48px var(--gray3),
+    200px 48px var(--gray3),
+    204px 48px var(--gray3),
+    208px 48px var(--gray2),
+    212px 48px var(--gray2),
+    216px 48px var(--gray2),
+    220px 48px var(--gray2),
+    224px 48px var(--brown1),
+    228px 48px var(--brown1),
+    232px 48px var(--brown1),
+    236px 48px var(--brown1),
+    240px 48px var(--brown1),
+    244px 48px var(--outline),
+
+    /* line 14 */
+    168px 52px var(--outline),
+    172px 52px var(--brown1),
+    176px 52px var(--brown1),
+    180px 52px var(--gray2),
+    184px 52px var(--gray2),
+    188px 52px var(--gray3),
+    192px 52px var(--gray3),
+    196px 52px var(--gray3),
+    200px 52px var(--gray3),
+    204px 52px var(--gray3),
+    208px 52px var(--gray2),
+    212px 52px var(--gray2),
+    216px 52px var(--gray2),
+    220px 52px var(--brown1),
+    224px 52px var(--brown1),
+    228px 52px var(--brown1),
+    232px 52px var(--brown1),
+    236px 52px var(--brown1),
+    240px 52px var(--brown1),
+    244px 52px var(--brown1),
+    248px 52px var(--outline),
+
+    /* line 15 */
+    168px 56px var(--outline),
+    172px 56px var(--brown1),
+    176px 56px var(--brown1),
+    180px 56px var(--gray2),
+    184px 56px var(--gray3),
+    188px 56px var(--gray3),
+    192px 56px var(--gray3),
+    196px 56px var(--gray3),
+    200px 56px var(--gray3),
+    204px 56px var(--gray3),
+    208px 56px var(--gray2),
+    212px 56px var(--gray2),
+    216px 56px var(--gray2),
+    220px 56px var(--brown1),
+    224px 56px var(--brown1),
+    228px 56px var(--brown1),
+    232px 56px var(--brown1),
+    236px 56px var(--brown1),
+    240px 56px var(--brown1),
+    244px 56px var(--brown1),
+    248px 56px var(--outline),
+
+    /* line 16 */
+    172px 60px var(--outline),
+    176px 60px var(--brown1),
+    180px 60px var(--gray2),
+    184px 60px var(--gray3),
+    188px 60px var(--gray2),
+    192px 60px var(--gray3),
+    196px 60px var(--gray3),
+    200px 60px var(--gray3),
+    204px 60px var(--gray3),
+    208px 60px var(--gray3),
+    212px 60px var(--gray2),
+    216px 60px var(--brown1),
+    220px 60px var(--brown1),
+    224px 60px var(--brown1),
+    228px 60px var(--brown1),
+    232px 60px var(--brown1),
+    236px 60px var(--brown1),
+    240px 60px var(--brown1),
+    244px 60px var(--brown1),
+    248px 60px var(--outline),
 
 
     20px 5px var(--outline);
