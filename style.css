@@ -24,7 +24,7 @@ body {
   /* width: 365px;
   height: 415px; */
   width: 365px;
-  height: 39px;
+  height: 410px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -246,6 +246,30 @@ body {
     310px 35px var(--black),
     315px 35px var(--outline),
     
+    /* line 9 */
+    200px 40px var(--outline),
+    205px 40px var(--outline),
+    210px 40px var(--outline),
+    215px 40px var(--brown1),
+    220px 40px var(--brown1),
+    225px 40px var(--gray2),
+    230px 40px var(--gray2),
+    235px 40px var(--gray2),
+    240px 40px var(--gray2),
+    245px 40px var(--brown2),
+    250px 40px var(--brown2),
+    255px 40px var(--brown1),
+    260px 40px var(--gray2),
+    265px 40px var(--gray2),
+    270px 40px var(--brown1),
+    275px 40px var(--brown1),
+    280px 40px var(--brown1),
+    285px 40px var(--brown1),
+    290px 40px var(--brown1),
+    295px 40px var(--brown1),
+    300px 40px var(--brown1),
+    305px 40px var(--outline),
+    310px 40px var(--outline),
 
 
 
