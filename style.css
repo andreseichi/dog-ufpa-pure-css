@@ -9,6 +9,7 @@
   --black: #000;
   --brown1: #a1735c;
   --brown2: #9a6951;
+  --brown3: #bd917b;
   --gray1: #424141;
   --gray2: #7d7b80;
   --gray3: #58545c;
@@ -427,6 +428,51 @@ body {
     240px 60px var(--brown1),
     244px 60px var(--brown1),
     248px 60px var(--outline),
+
+    /* line 17 */
+    172px 64px var(--outline),
+    176px 64px var(--brown1),
+    180px 64px var(--gray3),
+    184px 64px var(--gray2),
+    188px 64px var(--gray2),
+    192px 64px var(--gray3),
+    196px 64px var(--gray2),
+    200px 64px var(--gray3),
+    204px 64px var(--gray3),
+    208px 64px var(--gray3),
+    212px 64px var(--brown1),
+    216px 64px var(--brown1),
+    220px 64px var(--brown1),
+    224px 64px var(--brown1),
+    228px 64px var(--brown1),
+    232px 64px var(--brown1),
+    236px 64px var(--brown1),
+    240px 64px var(--brown1),
+    244px 64px var(--brown1),
+    248px 64px var(--outline),
+
+    /* line 18 */
+    172px 68px var(--outline),
+    176px 68px var(--brown1),
+    180px 68px var(--gray2),
+    184px 68px var(--gray2),
+    188px 68px var(--gray3),
+    192px 68px var(--gray3),
+    196px 68px var(--gray2),
+    200px 68px var(--gray2),
+    204px 68px var(--gray3),
+    208px 68px var(--gray3),
+    212px 68px var(--brown1),
+    216px 68px var(--brown1),
+    220px 68px var(--brown1),
+    224px 68px var(--brown1),
+    228px 68px var(--brown1),
+    232px 68px var(--brown1),
+    236px 68px var(--brown1),
+    240px 68px var(--brown3),
+    244px 68px var(--brown1),
+    248px 68px var(--brown1),
+    252px 68px var(--outline),
 
 
     20px 5px var(--outline);
