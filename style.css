@@ -37,6 +37,15 @@
   --gray3: #58545c;
 }
 
+body {
+  font-family: serif;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
 .container {
   width: 292px;
   height: 336px;
